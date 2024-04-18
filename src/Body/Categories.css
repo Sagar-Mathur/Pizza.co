@@ -1,0 +1,27 @@
+
+.categories-list{
+    margin-left: 150px;
+    
+    margin-top: 900px;
+    position: absolute;
+    
+}
+.categories-img{
+    border-radius: 120px;
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+}
+.categories-list li{
+    display: inline-grid;
+    
+}
+.categories-list h1{
+    margin-left: 400px;
+    margin-top: 40px;
+}
+.bg-img{
+    position: absolute;
+    
+    margin-left: -145px;
+}

@@ -1,0 +1,58 @@
+.slider-div{
+    
+    width: 1357px;
+    height: 500px;
+    overflow: hidden;
+    margin-top: 55px;
+
+    
+
+}
+.slider-div img{
+    width: 1357px;
+    height: 570px;
+    z-index: -2;
+
+}
+.slider-2 h3{
+    position: absolute;
+    top: 0;
+    margin-top: 300px;
+    margin-left: 100px;
+    z-index: 1;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(218, 73, 73);
+    animation-name: mymove;
+}
+
+@keyframes mymove{
+
+    from{margin-top: 400px;}
+    to{margin-top:300px; }
+ }
+
+ .slider-2 h1{
+    position: absolute;
+    top: 0;
+    margin-top: 330px;
+    margin-left: 40px;
+    z-index: 1;
+    font-size: 60px;
+    font-weight: 800;
+    color: white;
+    
+    
+}
+.slider-2 h2{
+    position: absolute;
+    top: 0;
+    margin-top: 400px;
+    margin-left: 100px;
+    z-index: 1;
+    font-size: 40px;
+    color: white;
+    
+    animation-name: mymove;
+}
+

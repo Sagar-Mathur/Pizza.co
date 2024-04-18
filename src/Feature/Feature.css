@@ -1,0 +1,31 @@
+.Feature li{
+ display: inline-grid;
+}
+.Feature img{
+    width: 130px;
+    height: 100px;
+    margin-left: 56px;
+    margin-top: 10px;
+
+}
+.feature-table{
+    width: 320px;
+    height: 250px;
+    border: 1px solid whitesmoke;
+    margin-left: 40px;
+    box-shadow: 1px 1px 8px 1px;
+    
+    
+}
+.Feature{
+    margin-left: 80px;
+    margin-top: 50px;
+    position: absolute;
+}
+.Feature h3{
+    margin-left: 30px;
+}
+.feature-table:hover{
+    scale: 1.03;
+    transition: all ease 0.5s;
+}

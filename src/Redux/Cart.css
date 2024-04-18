@@ -1,0 +1,54 @@
+.product-table{
+    position: fixed;
+    scroll-behavior: auto;
+    display: none;
+    background-color: whitesmoke;
+    border-spacing: 0px;
+    overflow-y: scroll ;
+    margin-left: 1070px;
+    top: 0;
+    margin-top: 30px;
+    height: 500px;
+    width: 290px;
+    z-index: 2;
+
+}
+.product-table td{
+    border: 1px solid black;
+    margin-top: 30px;
+    width: 200px;
+    padding-left: 35px;
+    
+}
+.product-table th{
+    padding: 10px;
+    padding-top: 10px;
+    background-color: blanchedalmond;
+    
+
+}
+
+.product-table img{
+    width: 100px;
+}
+.cart-length{
+    top: 0;
+    position: fixed;
+    z-index: 4;
+    right: 0;
+    margin-top: 5px;
+    font-size: 20px;
+    color: maroon
+}
+.product-table h3{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 240px;
+    cursor: default;
+   color: red;
+
+}
+.product-table table{
+    overflow-x: scroll;
+    
+}

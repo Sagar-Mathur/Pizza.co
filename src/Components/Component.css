@@ -1,0 +1,79 @@
+.free-delivery-banner img{
+    width: 1600px;
+    margin-left: -160px;
+}
+.free-delivery-banner{
+    overflow: hidden;
+}
+.free-delivery-banner h1{
+    position: absolute;
+    color:white;
+    font-size: 50px;
+    font-weight:1000;
+    margin-top: 190px;
+    margin-left: 410px;
+}
+.free-delivery-banner h2{
+    position: absolute;
+    color:white;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 160px;
+    margin-left: 500px;
+}
+.free-delivery-banner h3{
+    position: absolute;
+    color:white;
+    font-size: 60px;
+    font-weight: 800;
+    margin-top: 260px;
+    margin-left: 533px;
+    color: #f9b129;
+}
+.free-delivery-banner h3 span{
+    position: absolute;
+    color:white;
+
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 11px;
+    margin-left: -4px;
+    color: #f9b129;
+}
+.free-delivery-banner h3 text{
+    position: absolute;
+    color:white;
+
+    font-size: 25px;
+    font-weight: 800;
+    margin-top: 16px;
+    margin-left: -12px;
+    color: #f9b129;
+}
+.free-delivery-banner p{
+    position: absolute;
+    color:white;
+    margin-top: 283px;
+    margin-left: 635px;
+    font-size: 12px;
+    font-weight: 500;
+    white-space: 0px;   
+}
+.free-delivery-banner button{
+    position: absolute;
+    color:white;
+    margin-top: 350px;
+    margin-left: 490px;
+    width: 240px;
+    height: 48px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    white-space: 0px;
+    background-color: #ec5353; 
+    border-color: #ec5353;  
+}
+.free-delivery-banner button:hover{
+    background-color: #f9b129;
+    border-color: #f9b129;
+}
