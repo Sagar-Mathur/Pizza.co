@@ -4,6 +4,7 @@
 }
 .chefs{
     margin-top: 150px;
+    width: 1347px;
 }
 .chefs .headline{
     margin-left: 540px;
@@ -13,4 +14,7 @@
 }
 .chef-index h1{
     margin-left: 100px;
+}
+.chef-index{
+    padding-left: 10px;
 }
