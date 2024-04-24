@@ -1,9 +1,10 @@
 .free-delivery-banner img{
-    width: 1600px;
-    margin-left: -160px;
+    width: 1357px;
 }
 .free-delivery-banner{
-    overflow: hidden;
+background-size: cover;
+width: 1344px;
+overflow: hidden;
 }
 .free-delivery-banner h1{
     position: absolute;
