@@ -1,5 +1,5 @@
 .Feature li{
- display: inline-grid;
+ display: inline-block;
 }
 .Feature img{
     width: 130px;
